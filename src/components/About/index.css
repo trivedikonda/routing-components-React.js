@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.component-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+
+.nav-item-name {
+  color: #6d396b;
+  font-size: 25px;
+}
+
+.about-description {
+  font-size: 20px;
+  color: #555555;
+}
